@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 💻 Currently Learning Android Application Development & Vector Arts
+- 💻 Currently Learning Android Application Development &  Web Application Development
 - 👀 Looking to collaborate with Open Source Projects.
 - 😎 Never stop Dreaming...✨
 - 📫 How to contact me **cmwkd96@gmail.com**
