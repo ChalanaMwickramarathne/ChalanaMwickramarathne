@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://twitter.com/ChalanaWickram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ChalanaMwickramarathne" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chalana-m-wickramarathne-5856a7221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChalanaMwickramarathne" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Chalana M. Wickramarathne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ChalanaMwickramarathne" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chalana.m.wickramarathne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ChalanaMwickramarathne" height="30" width="40" /></a>
 </p>
 
 <br/>
