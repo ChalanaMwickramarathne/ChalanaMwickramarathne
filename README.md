@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<img align="center" alt="Coding" width="400" height="200" src=https://www.bing.com/images/search?view=detailV2&ccid=gReLR6hZ&id=AC426644C85D5520756E00EC57629180C9606A54&thid=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&mediaurl=https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif&cdnurl=https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=VGpgyYCRYlfsAA&pid=ImgRaw&r=0&exph=600&expw=800&q=programming+gif&simid=607999912897697035&form=IRPRST&ck=38CBE0AC160047CDEBC910013C56C54D&selectedindex=0&adlt=strict&shtp=GetUrl&shid=daa78d24-aafb-4834-8c5b-3b4360504056&shtk=RXhwbG9yZSBvdXIgc2VydmljZXMgLSBTaGFyYSBTb2x1dGlvbnM%3D&shdk=Rm91bmQgb24gQmluZyBmcm9tIHNoYXJhc29sdXRpb25zLmNvbQ%3D%3D&shhk=CRrvVJEBrId4x0W495wQ7dZtFPnlMexQwc3Lf8xLxWo%3D&shth=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj">
+<img align="center" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <br/>
 <hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
